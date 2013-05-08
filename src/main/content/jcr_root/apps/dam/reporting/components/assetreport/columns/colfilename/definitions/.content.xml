@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="nt:unstructured"
+    groupable="{Boolean}false"
+    type="string">
+    <queryBuilder
+        jcr:primaryType="nt:unstructured"
+        property="jcr:path"/>
+    <data jcr:primaryType="nt:unstructured">
+        <preprocessing jcr:primaryType="nt:unstructured">
+            <apply
+                jcr:primaryType="nt:unstructured"
+                pattern="^(.+)/([^/]+)$"
+                replace="$2"/>
+        </preprocessing>
+    </data>
+</jcr:root>

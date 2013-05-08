@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="nt:unstructured"
+    groupable="{Boolean}true"
+    type="string">
+    <queryBuilder
+        jcr:primaryType="nt:unstructured"
+        property="Iptc4xmpCore:Location"
+        subPath="./jcr:content/metadata"/>
+</jcr:root>

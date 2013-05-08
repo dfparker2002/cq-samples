@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/dam/reporting"/>
+    <filter root="/etc/designs/reports/assetreport"/>
+    <filter root="/etc/reports/dam-asset-report"/>
+    <filter root="/apps/cq/reporting/components/reportpage/body.jsp"/>
+    <filter root="/apps/cq/reporting/components/reportpage/head.jsp"/>
+    <filter root="/apps/cq/reporting/components/reportpage/init.jsp"/>
+</workspaceFilter>
