@@ -5,6 +5,7 @@
 # CQ #
 ###################
 .vlt
+foundation/global.jsp
 
 # Maven #
 ###################
