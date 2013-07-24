@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:description="A test tool for Externalizer showing all the options and allowing to test on an instance for specific content URLs"
+    jcr:primaryType="cq:Component"
+    jcr:title="Test"
+    _x002e_hidden="{Boolean}true"
+    componentGroup="Support Tools"/>
